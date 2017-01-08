@@ -1,7 +1,72 @@
 #weather-icon {
     position: relative;
-    left: 10%;
+    left: 3%;
     top: 5%;
     background-color: aqua;
+    width: 15vw;
+    height: 15vw;
 }
 
+#weather-summary {
+
+}
+
+#weather-precip-probability {
+
+}
+
+#weather-visibility {
+
+}
+
+#weather-precip-intensity {
+
+}
+
+#weather-precip-intensity-error {
+
+}
+
+#weather-cloud-cover {
+
+}
+
+#weather-wind-bearing {
+
+}
+
+#weather-feels-like {
+
+}
+
+#weather-pressure {
+
+}
+
+#weather-dew-point {
+
+}
+
+#weather-ozone {
+
+}
+
+#weather-precip-type {
+
+}
+
+#weather-actual-temp {
+
+}
+
+#weather-humidity {
+
+}
+
+#weather-report-time {
+
+}
+
+#weather-wind-speed {
+
+}
